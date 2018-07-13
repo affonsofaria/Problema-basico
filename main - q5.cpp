@@ -1,15 +1,15 @@
 #include <iostream>
 
 using namespace std;
-/*5. Escreva um programa que lê uma sequência de números inteiros enquanto
-o valor 0 não é digitado. Quando esse valor for digitado o programa
+/*5. Escreva um programa que lÃª uma sequÃªncia de nÃºmeros inteiros enquanto
+o valor 0 nÃ£o Ã© digitado. Quando esse valor for digitado o programa
 deve imprimir os dois menores valores que foram digitados e terminar.
-Dica: você pode assumir que o usuário irá digitar pelo menos dois
+Dica: vocÃª pode assumir que o usuÃ¡rio irÃ¡ digitar pelo menos dois
 valores diferentes de zero.
-• Exemplos de entrada:
+â€¢ Exemplos de entrada:
 3 15 7 -4 0
 10 5 3 4 0
-• Exemplos de saída:
+â€¢ Exemplos de saÃ­da:
 O menor valor foi -4 e o segundo menor foi 3.
 O menor valor foi 3 e o segundo menor foi 4.
 */
@@ -37,7 +37,7 @@ int main()
                 break;
             }
         }
-        if (teste = true && )
+        if (teste = true)
         {
             cout<<valores[j];
         }
